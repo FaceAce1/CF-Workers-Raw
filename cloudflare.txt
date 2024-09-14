@@ -1,0 +1,6 @@
+cf.090227.xyz:443#自适应优选域名
+www.visa.com.hk#ADD优选域名2
+www.visa.com.tw#ADD优选域名2
+www.visa.com.sg#ADD优选域名4
+icook.hk#ADD优选域名5
+time.is#ADD优选域名6
